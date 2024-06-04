@@ -1,0 +1,21 @@
+body{
+  background-color: #68edc6;
+}
+h2{
+  font-weight: bold;
+  font-size: 40px;
+  color: #016fb9;
+  text-decoration-line: underline;
+  text-decoration-color: #058ed9;
+}
+img{
+  width: 450px;
+  font-family: Cursive;
+  font-size: 20px;
+  font-weight: bold;
+  color: #db324d
+}
+p{
+  color: #023618;
+  
+}
