@@ -1,8 +1,10 @@
 body {
-  background-color: blue;
+  background-color: #a3d5ff;
 }
 
 h1 {
+  text-decoration-line: underline;
+  text-decoration-color: blue;
 }
 
 img {
@@ -11,4 +13,9 @@ img {
 
 ul {
   text-size: 300px;
+}
+p{
+  text-size: 30px;
+  text-decoration-line: underline;
+  text-decoration-color: brown;
 }
