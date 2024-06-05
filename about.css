@@ -4,3 +4,17 @@ body{
 img{
   width: 250px;
 }
+
+h2{
+  font-family = "sans-serif";
+  color: brown;
+  text-decoration-line: underline;
+  text-decoration-color: green;
+}
+p{
+  font-family = "cursive", "Times New Roman", Helvetica;
+  font-weight: bold;
+  color: brown;
+  text-decoration-line: underline;
+  text-decoration-color: blue;
+}
