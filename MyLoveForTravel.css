@@ -16,6 +16,7 @@ img{
   color: #db324d
 }
 p{
-  color: #023618;
+  text-decoration-line: underline;
+  text-decoration-color: #023618;
   
 }
